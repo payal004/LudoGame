@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-color:purple;
+}
+.container{
+    width:90%;
+    margin:auto;
+    text-align:center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    margin:30px;
+    text-shadow:2px 0px rgb(255, 255, 255);
+    font-size: 6rem;
+    color:#f6b93b;
+
+}
+p{
+    font-size: 2rem;
+    color:#00b894;
+    text-shadow: 1px 1px white;;
+}
+button{
+    padding:20px;
+    background-color: #00b894;
+    color:white;
+    border:none;
+    
+    
+}
+img{
+    width:250px;
+    size:90px;
+}
